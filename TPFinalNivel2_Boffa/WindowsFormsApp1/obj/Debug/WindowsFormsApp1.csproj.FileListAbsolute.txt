@@ -1,0 +1,35 @@
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\bin\Debug\Dominio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\bin\Debug\Negocio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\bin\Debug\Dominio.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\bin\Debug\Negocio.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAltaArticulo.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\Probando errores\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmArticulosDesactivados.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\bin\Debug\Dominio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\bin\Debug\Negocio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\bin\Debug\Dominio.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\bin\Debug\Negocio.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPrincipal.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAltaArticulo.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmArticulosDesactivados.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel2\TPFinalNivel2_Boffa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDetalle.resources
